@@ -52,6 +52,7 @@ class Features(IntEnum):
     SECONDARY_AUX_FAN = 25,
     HOTEND_RACK = 26,
     ACTIVE_CHAMBER_HEATER = 27,
+    FIRE_EXTINGUISHER = 28,
 
 
 class FansEnum(IntEnum):
